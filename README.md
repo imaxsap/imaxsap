@@ -8,7 +8,7 @@
 Я начинающий тестировщик и веб-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался c изучения Python, затем JavaScript на Stepik, где я прошел курс "'Поколение Python': курс для начинающих" и "Верстка и веб разработка сайтов 2023 - для продвинутых.Web development".
 С октября 2022 года по февраль 2023 я изучал веб-разработку на курсах Stepik.ru . С марта по август этого года успешно закончил курсы на QA-инженера. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы и продолжаю изучать материалы в этом направлении.
 
-<p align="center">
+ <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
@@ -18,7 +18,7 @@
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-imaxsap-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
 ---
 
