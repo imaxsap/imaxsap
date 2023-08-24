@@ -10,8 +10,9 @@
 
  <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+ </p>
 
+ 
 - :telescope:  Проходил обучение в School-21 от Сбер (школа програмирования);
 
 - :seedling: Завершил курсы по веб-разработке и тестировщика.
