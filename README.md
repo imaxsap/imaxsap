@@ -12,12 +12,11 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+- :telescope:  Проходил обучение в School-21 от Сбер (школа програмирования);
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+- :seedling: Завершил курсы по веб-разработке и тестировщика.
 
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
-
+- :zap: Прошел курс от ТГУ по специальности QA-инженер/Тестировщик цифровых продуктов и програмного обеспечения
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-imaxsap-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/imaxsap) [![Gmail Badge](https://img.shields.io/badge/-Почта-red?style=flat&logo=Yandex&logoColor=yellow)](mailto:imaxsap@yandex.ru)
 
 ---
